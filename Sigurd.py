@@ -155,5 +155,5 @@ async def where_am_i(ctx):
                                                                        str(member.joined_at)))
 
 
-token = "OTQ2NDk2OTI1NzkwNzg5Njcy.Yhfj9A.EcBW2VUQnrxoYJbOuq3CMjlgVdY"
+token = ""
 bot.run(token)
